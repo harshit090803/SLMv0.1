@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Large datasets
+*.jsonl
+*.json
+
+# Logs
+*.log
+
+# IDE
+.vscode/

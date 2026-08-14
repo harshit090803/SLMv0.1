@@ -18,4 +18,5 @@ checkpoints/
 *.log
 
 # IDE
-.vscode/
+.vscode/test.warc.wet
+test.warc.wet.gz

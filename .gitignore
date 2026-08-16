@@ -5,7 +5,6 @@ __pycache__/
 
 # Model checkpoints
 checkpoints/
-*.pt
 *.pth
 *.ckpt
 *.bin
@@ -18,5 +17,4 @@ checkpoints/
 *.log
 
 # IDE
-.vscode/test.warc.wet
-test.warc.wet.gz
+.vscode/
